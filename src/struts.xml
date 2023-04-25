@@ -3,7 +3,7 @@
 Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
 <struts>
 
-	<constant name="struts.devMode" value="true" />
+	<constant name="struts.devMode" value="false" />
 
 	<package name="default" extends="struts-default">
 		<action name="how-to-use">

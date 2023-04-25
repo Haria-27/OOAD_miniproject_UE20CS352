@@ -48,8 +48,7 @@ response.setHeader ("Expires", "0"); //prevents caching at the proxy server
 </head>
 
 <body>
-<body id="page-top" class="index"
-	style="background-image: url('img/lib.jpg'); background-attachment: fixed;">
+<body id="page-top" class="index">
 
 	<!-- Navigation -->
 	<nav id="mainNav"
@@ -71,7 +70,6 @@ response.setHeader ("Expires", "0"); //prevents caching at the proxy server
 				<ul class="nav navbar-nav navbar-right">
 					<li class="hidden"><a href="#page-top"></a></li>
 					<li><a class="page-scroll" href="${pageContext.request.contextPath}">Home</a></li>
-					<li><a class="page-scroll" href="how-to-use">How to Use?</a></li>
 					<li><a class="page-scroll" href="logout">Logout</a></li>
 				</ul>
 			</div>
@@ -141,10 +139,6 @@ response.setHeader ("Expires", "0"); //prevents caching at the proxy server
 
 				</form>
 				<hr />
-				<span
-					style="text-decoration: underline; text-shadow: black; font-size: medium;"><a
-					href="view-timetable"><i>Test with custom input
-							(Development Purpose only)</i></a></span>
 			</div>
 		</div>
 

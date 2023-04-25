@@ -37,17 +37,9 @@ response.setHeader ("Expires", "0"); //prevents caching at the proxy server
 <!-- Theme CSS -->
 <link href="css/agency.min.css" rel="stylesheet">
 
-
-<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
 </head>
 
-<body style="background-image: url('img/lib.jpg'); background-attachment: fixed;">
+<body>
 	<!-- Navigation -->
 	<nav id="mainNav"
 		class="navbar navbar-default navbar-custom navbar-fixed-top"

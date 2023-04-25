@@ -41,7 +41,7 @@
 
 </head>
 
-<body style="background-image: url('img/lib.jpg'); background-attachment: fixed;">
+<body>
 	<!-- Navigation -->
 	<nav id="mainNav"
 		class="navbar navbar-default navbar-custom navbar-fixed-top"

@@ -4,13 +4,7 @@ import java.util.*;
 
 public class SchedulerMain{
 
-	/*
-	 * Time Table scheduling is an np-hard problem which can best be solved  
-	 * using Genetic Algorithms (of Artificial Intelligence).
-	 * Conceps used here are Permutation encoding, elitism, roulette wheel selection,
-	 * single pt crossover,swap mutation
-	 */
-	
+
 	List<Chromosome> firstlist;
 	List<Chromosome> newlist;
 	double firstlistfitness;

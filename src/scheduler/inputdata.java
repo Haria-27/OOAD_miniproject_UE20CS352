@@ -30,7 +30,7 @@ public class inputdata {
 		hoursperday = 7;
 		daysperweek = 5;
 		try {
-			File file = new File("c:\\test\\input.txt");
+			File file = new File("C:\\Users\\eliza\\Downloads\\Time-table-scheduler\\input.txt");
 			// File file = new File(System.getProperty("user.dir") +
 			// "/input.txt");
 			
